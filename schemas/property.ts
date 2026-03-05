@@ -50,6 +50,7 @@ export default defineType({
       options: {
         list: [
           {title: 'Available', value: 'available'},
+          {title: 'Coming Soon', value: 'coming-soon'},
           {title: 'Pending', value: 'pending'},
           {title: 'Rented', value: 'rented'},
         ],
